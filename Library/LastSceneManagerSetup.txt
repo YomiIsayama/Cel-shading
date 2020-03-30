@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/unity-chan!/Unity-chan! Model/Scenes/ARPoseTest.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
